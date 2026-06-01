@@ -41,3 +41,14 @@ This project was developed to strengthen frontend web development skills by buil
 - Multi-page Navigation
 - Responsive Web Design
 - E-commerce Workflow Implementation
+
+##  SCREENSHOTS
+
+##   HOMEPAGE
+![homepage](images/AMAZON_CLONE.jpeg)
+
+##  ORDERS PAGE
+![orders page](images/orders.jpeg)
+
+##  TRACKING PAGE
+![tracking page](images/tracking.jpeg)
