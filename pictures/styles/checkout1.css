@@ -1,0 +1,185 @@
+.header{
+    display: flex;
+    gap:40px;
+    background-color: white;
+    position: sticky;
+    z-index: 1000;
+    top: 0;
+    margin-top: 25px;
+    width:100%;
+}
+.amazonlogo{
+    width: 100px;
+    height: 33px;
+    padding-left: 110px;
+}
+.checkout{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top:1px;
+    margin-left: 370px;
+    font-weight: 600;
+    font-size:20px;
+}
+.item3{
+    color:rgb(2, 66, 92);
+}
+.lock{
+    padding-left: 400px;
+    width: 30px;
+    height: 30px;
+    padding-top: 20px;
+    padding-right: 50px;
+}
+.review{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 22px;
+    padding-left: 110px;
+    padding-top: 50px;
+}
+.div1{
+    width: 780px;
+    border: 1px solid lightgrey;
+    height: 300px;
+    margin-left: 110px;
+    border-radius: 7px;
+}
+.delivery{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 19px;
+    color: darkgreen;
+    padding-left: 20px;
+}
+.div2{
+    display: flex;
+    gap: 30px;
+}
+.pic1{
+    width: 105px;
+    height: 105px;
+    padding-left: 20px;
+    padding-top: 5px;
+}
+.para{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.para p:nth-of-type(1){
+    margin-top: 2px;
+    font-weight: 600;
+    width: 250px;
+}
+.para p:nth-of-type(2){
+    color: brown;
+    font-weight: 600;
+    margin-top: -7px;
+}
+.para p:nth-of-type(3){
+    margin-top: -10px;
+}
+.update{
+    color: rgb(4, 117, 161);
+}
+.deleteoption{
+    cursor: pointer;
+}
+.div3{
+    margin-left:100px;
+}
+.delioption{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    margin-top: 5px;
+}
+.radiobutton{
+    width: 20px;
+}
+.radio{
+    display: flex;
+    gap: 3px;
+    margin-top:-20px;
+    }
+ .para1{
+    color: darkgreen;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    margin-bottom: 19px;
+}
+  .free{
+    color: rgb(126, 124, 124);
+    font-weight:500;
+}
+.div4{
+    width: 330px;
+    border: 1px solid lightgrey;
+    height: 330px;
+    margin-left: 910px;
+    margin-top: -303px;
+    border-radius: 7px;
+}
+.order{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 19px;
+    padding-left:20px;
+    
+}
+.div4 p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    padding-left: 20px;
+}
+.span1{
+    padding-left:180px;
+}
+.div4 .ship{
+    margin-top:-8px;
+}
+.span2{
+    padding-left: 100px;
+    }
+.span3{
+    padding-left:130px;
+}
+.span4{
+    padding-left:105px;
+}
+.span5{
+    padding-left: 150px;
+}
+.estimated{
+    margin-top: -6px;
+ padding-bottom: 10px;
+    
+}
+.border{
+    border-bottom: 1px solid lightgrey;
+    width: 290px;
+    margin:0 auto;
+    margin-top: -10px;
+}
+.total{
+    color: brown;
+    font-weight: 600;
+    font-size: 20px;
+}
+.button{
+    width: 300px;
+    height: 40px;
+    margin-left: 20px;
+    border-radius: 7px;
+    background-color: rgb(255, 216, 20);
+    border: none;
+    margin-top: 20px;
+}
+.div5{
+    width: 780px;
+    border: 1px solid lightgrey;
+    height: 300px;
+    margin-left: 110px;
+    border-radius: 7px;
+    margin-top: -13px;
+}
+
+
+

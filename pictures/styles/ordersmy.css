@@ -1,0 +1,184 @@
+.header{
+    background-color: black;
+    position: sticky;
+    z-index: 1000;
+    top: 0;
+    height: 60px;
+    border-top-left-radius:13px;
+    width: 100%;
+    margin-left:-10px;
+    display: flex;
+    
+    
+}
+.amazonlogo{
+    width: 95px;
+    height: 30px;
+    padding: 15px 15px 10px 22px;
+    cursor: pointer;
+}
+.amazonlogo:hover{
+    border: 1px solid lightgoldenrodyellow;
+    margin: 8px 8px 8px 8px;
+
+}
+.search{
+    width: 800px;
+    height: 37px;
+    margin-top:11px;
+    padding-bottom:px;
+    margin-left:110px;
+    font-size: 17px;
+    padding-left: 13px;
+    border-radius: 5px;
+    border: 1px solid ;
+}
+.button{
+    width: 55px;
+    height: 40px;
+    margin-top: 11px;
+    margin-left:-3px;
+    border-top-right-radius:7px ;
+    border-bottom-right-radius: 7px;
+    background-color:rgb(254, 189, 105);
+    cursor: pointer;
+
+}
+.button img{
+    width:15px;
+    height:23px;
+}
+.returns{
+    color: white;
+    padding-left: 60px;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 30px;
+    
+    
+}
+.order{
+    color: white;
+    margin-left:-40px;
+    margin-top: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+.cart{
+    width: 55px;
+    height: 40px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.yourorder{
+    font-size: 25px;
+    font-family: Arial;
+    font-weight: 650;
+    padding-top: 10px;
+    padding-left:230px ;
+}
+.orderplaced{
+    display: flex;
+    gap: 50px;
+    border: 1px solid lightgrey;
+    padding-left:25px;
+    margin-right:105px;
+    margin-left: 238px;
+    width: 860px;
+    flex-wrap:wrap;
+    background-color: rgb(222, 222, 222);
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-top-left-radius: 9px;
+    border-top-right-radius:9px ;
+    flex: 1;
+}
+.orderplaced p:nth-of-type(3){
+    padding-left: 300px;
+}
+.picdiv{
+    display: flex;
+    flex-wrap: wrap;
+    flex: 1;
+    gap: 30px;
+    width: 885px;
+    margin-left: 238px;
+    margin-right:105px;
+    border: 1px solid lightgrey;
+    height: 400px;
+}
+.pic1{
+    width: 100px;
+    height: 110px;
+    padding-top: 50px;
+    padding-left: 30px;
+}
+.para p:nth-of-type(1){
+    padding-top: 33px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    padding-bottom: 0px;
+}
+.para p:nth-of-type(2){
+    margin-top:-11px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.para p:nth-of-type(3){
+    margin-top: -13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.buy{
+    display: flex;
+    flex-wrap: wrap;
+    flex: 1;
+    width: 145px;
+    height: 38px;
+    border-radius: 7px;
+    border: none;
+    background-color: rgb(252, 210, 0);;
+    margin-top: -7px;
+    cursor: pointer;
+}
+.buy img{
+    width: 25px;
+    height: 25px;
+    padding-top: 7px;
+    padding-left: 5px;
+    }
+.buy p{
+    margin-top: -22px;
+    padding-left: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    }
+.track{
+    margin-top:-30px;
+    width: 145px;
+    height: 35px;
+    border-radius: 7px;
+    border:1px solid lightgrey;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    cursor: pointer;
+    margin-left: 480px;
+}
+.track1{
+    margin-top: -105px;
+    margin-left: 50px;
+}
+.gap{
+    margin-top: 55px;
+}
+.picdiv1{
+    display: flex;
+    flex-wrap: wrap;
+    flex: 1;
+    gap: 30px;
+    width: 885px;
+    margin-left: 238px;
+    margin-right:105px;
+    border: 1px solid lightgrey;
+    height: 200px;
+}
